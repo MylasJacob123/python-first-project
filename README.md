@@ -28,8 +28,8 @@ This is a simple script that prints:
 
 ```
 python-first-project/
-├── test.py
-└── README.md
+├── README.md
+└── test.py
 ```
 
 ## ✅ Requirements
